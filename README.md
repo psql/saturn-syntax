@@ -1,5 +1,5 @@
 # saturn-syntax theme
 
-A short description of your theme.
+Atom Theme, based on my Terminal/XCode theme called [Saturn Colors](https://github.com/psql/saturn-colors)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![yeah](http://cl.ly/X0lW/Screen%20Shot%202014-08-12%20at%204.33.31%20PM.png)
