@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.1",
   "description": "Colors from Pasquale's (@psql) brain. Roughly hacked together. Excuse strange LESS variables. Would like to clean up in a future release.",
-  "repository": "https://github.com/atom/saturn-syntax",
+  "repository": "https://github.com/psql/saturn-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
