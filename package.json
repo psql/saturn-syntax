@@ -1,7 +1,7 @@
 {
   "name": "saturn-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Colors from Pasquale's (@psql) brain. Roughly hacked together. Excuse strange LESS variables. Would like to clean up in a future release.",
   "repository": "https://github.com/psql/saturn-syntax",
   "license": "MIT",
